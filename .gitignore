@@ -47,3 +47,5 @@ Thumbs.db
 
 # Electron dist folder
 electron/dist
+
+*.jpg
